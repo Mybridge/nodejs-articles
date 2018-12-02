@@ -11,16 +11,16 @@ Also published on [Mybridge Publication](https://medium.mybridge.co)
 
 ## Monthly Series:
 
-* [v.Feb 2018 - Top 10 Node.js Aricles](./src/02-2018.md)
-* [v.Mar 2018 - Top 10 Node.js Aricles](./src/03-2018.md)
-* [v.Apr 2018 - Top 10 Node.js Aricles](./src/04-2018.md)
-* [v.May 2018 - Top 10 Node.js Aricles](./src/05-2018.md)
-* [v.Jun 2018 - Top 10 Node.js Aricles](./src/06-2018.md)
-* [v.Jul 2018 - Top 10 Node.js Aricles](./src/07-2018.md)
-* [v.Aug 2018 - Top 10 Node.js Aricles](./src/08-2018.md)
-* [v.Sep 2018 - Top 10 Node.js Aricles](./src/09-2018.md)
-* [v.Oct 2018 - Top 10 Node.js Aricles](./src/10-2018.md)
-* [v.Nov 2018 - Top 10 Node.js Aricles](./src/11-2018.md)
+* [v.Feb 2018 - Top 10 Node.js Articles](./src/02-2018.md)
+* [v.Mar 2018 - Top 10 Node.js Articles](./src/03-2018.md)
+* [v.Apr 2018 - Top 10 Node.js Articles](./src/04-2018.md)
+* [v.May 2018 - Top 10 Node.js Articles](./src/05-2018.md)
+* [v.Jun 2018 - Top 10 Node.js Articles](./src/06-2018.md)
+* [v.Jul 2018 - Top 10 Node.js Articles](./src/07-2018.md)
+* [v.Aug 2018 - Top 10 Node.js Articles](./src/08-2018.md)
+* [v.Sep 2018 - Top 10 Node.js Articles](./src/09-2018.md)
+* [v.Oct 2018 - Top 10 Node.js Articles](./src/10-2018.md)
+* [v.Nov 2018 - Top 10 Node.js Articles](./src/11-2018.md)
 
 <br>
 
